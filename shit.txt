@@ -3,4 +3,8 @@ shit 2
 
 约饭功能
 
+
 bug fixed
+
+new feature 1 50%
+
